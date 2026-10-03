@@ -35,7 +35,7 @@
 | V04 | [Các kiểu bài viết (dàn ý mẫu, bảng tự chấm)](NguVan/V04-Cac-Kieu-Bai-Viet.md) ⭐ | Phần Viết mọi bài | Quy trình viết, dàn ý nghị luận |
 | V05 | [Tiếng Việt](NguVan/V05-Tieng-Viet.md) | Thực hành tiếng Việt | Mở rộng thành phần câu |
 
-## Tiếng Anh 7 – Global Success (4 file)
+## Tiếng Anh 7 – Global Success (5 file)
 
 | # | File | Nội dung | Hình minh họa |
 |---|---|---|---|
@@ -43,6 +43,7 @@
 | A02 | [Từ vựng Unit 7 – 12](TiengAnh/A02-Tu-Vung-Unit-7-12.md) | HK2, 90 từ trọng tâm | Biển báo giao thông |
 | A03 | [Ngữ pháp trọng tâm](TiengAnh/A03-Ngu-Phap-Trong-Tam.md) ⭐ | 13 chủ điểm | Trục thời gian các thì, in/on/at, đếm được |
 | A04 | [Phát âm, đọc hiểu, viết](TiengAnh/A04-Phat-Am-Doc-Viet.md) | Phát âm, viết lại câu, đoạn văn mẫu | |
+| A05 | [Họ từ và các dạng câu](TiengAnh/A05-Ho-Tu-Va-Cac-Dang-Cau.md) | Word family theo Unit đã học, câu đơn/ghép/phức, cặp liên từ | |
 
 ## Khoa học tự nhiên 7 (8 file)
 

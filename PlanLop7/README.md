@@ -47,9 +47,9 @@ PlanLop7/
 | 03 – 16/05/2027 | Thi cuối năm | [Tuần 29 – 30](LoTrinh/Tuan-29-Ke-Hoach-Hoc-Tap.md) (ôn) · [Tuần 31 – 32](LoTrinh/Tuan-31-Ke-Hoach-Hoc-Tap.md) |
 | Cuối 05/2027 | Tổng kết năm, kế hoạch hè | [Tuần 34](LoTrinh/Tuan-34-Ke-Hoach-Hoc-Tap.md) |
 
-## Điểm khác so với PlanLop10
+## Điểm khác so với PlanLop9
 
-| | PlanLop10 | PlanLop7 |
+| | PlanLop9 | PlanLop7 |
 |---|---|---|
 | Mục tiêu | Thi tuyển vào lớp 10 chuyên | **Điểm trung bình cả năm**, danh hiệu Giỏi/Xuất sắc (Thông tư 22) |
 | Trọng tâm | 3 môn thi (Toán, Văn, Anh chuyên) | **8 môn có điểm số** (không môn nào dưới 6,5) |
