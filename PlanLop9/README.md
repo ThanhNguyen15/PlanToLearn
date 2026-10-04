@@ -15,6 +15,7 @@
 | 5b | [15 chuyên đề ôn luyện](PTNK/ChuyenDe/Danh-Muc-Chuyen-De.md) (CĐ11 – 15 🆕 theo xu hướng đề 2024 – 2026, có hình minh họa 🎨) | Con | Học theo thứ tự đề xuất (tháng 10/2026 – 2/2027), ôn lại tháng 3 – 5 |
 | 5c | [Cấu trúc đề thi](LuyenDe/Cau-Truc-De-Thi.md) · [Kế hoạch luyện đề 3 môn](LuyenDe/Ke-Hoach-Luyen-De-3-Mon.md) · [Phiếu phân tích đề](LuyenDe/Phieu-Phan-Tich-De.md) | Con + bố mẹ (chuẩn bị đề) | Tuần 1; sau mỗi đề điền phiếu phân tích |
 | 5d 🆕 | [Học cùng AI đúng cách](Hoc-Cung-AI.md) | Con + bố mẹ | Tuần 1 (đọc cùng nhau); mỗi lần dùng chatbot để học |
+| 5e 🆕 | [Phương pháp học Do Thái & Châu Âu](../Phuong-Phap-Hoc-Do-Thai-Chau-Au.md) (chavruta, hỏi sâu, mastery, khung lập luận NLXH) | Con + bố mẹ | Tuần 1 – 2 (đọc cùng nhau), áp dụng dần |
 | 6 | [Tuần 35 – Tuần thi](LHP/Tuan-35-Tuan-Thi.md) | Con + bố mẹ | Đầu tháng 6/2027 |
 | 7 | [Dự phòng và sau kỳ thi](Ke-Hoach-Du-Phong-Va-Sau-Thi.md) | Bố mẹ (nguyện vọng: tháng 2–4) · con (sau thi) | Tháng 2/2027 và sau khi thi |
 
@@ -59,6 +60,14 @@ PlanLop9/
 | ~Đầu 6/2027 | **Thi Sở** (năm 2026: 1 – 2/6) | [Tuần 34](LHP/Tuan-34-Ke-Hoach-Hoc-Tap.md) · [Tuần 35](LHP/Tuan-35-Tuan-Thi.md) |
 
 ## Nhật ký cập nhật
+
+### 04/10/2026 – Thêm phương pháp học Do Thái & Châu Âu
+
+**Lý do:** Thông tư 29/2024/TT-BGDĐT siết dạy thêm, học thêm — gia đình cần năng lực tự học thật, không dựa vào lớp ngoài; thêm cách học chavruta (tranh luận theo cặp), hỏi sâu, mastery trước khi học rộng, dự án liên môn, kể chuyện khoa học, lấy từ truyền thống Do Thái và giáo dục Phần Lan/Đức/Pháp, dùng chung cho cả PlanLop7 và PlanLop9.
+
+| Loại | Thay đổi | File |
+|---|---|---|
+| 🆕 Tài liệu | **Phương pháp học Do Thái & Châu Âu**: chavruta, hỏi sâu 2 lần, kể chuyện khoa học (Pythagoras, Mendeleev, Rutherford, Turing…) trước mỗi bài mới, mastery 80%, dự án liên môn/tháng, khung lập luận 4 bước, cách khen theo growth mindset | [Phuong-Phap-Hoc-Do-Thai-Chau-Au](../Phuong-Phap-Hoc-Do-Thai-Chau-Au.md) |
 
 ### 02/10/2026 – Rà soát toàn bộ, bổ sung theo xu hướng đề 2024 – 2026 và thời đại AI
 

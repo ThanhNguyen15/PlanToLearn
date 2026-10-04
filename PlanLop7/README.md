@@ -13,6 +13,7 @@
 | 3 | [Tổng hợp kiến thức 33 file](KienThuc/README.md) (đáp án ẩn, **70 hình minh họa**) | Con | Theo lịch tuần; ôn lại trước mỗi kì thi |
 | 4 | [Kế hoạch ôn 4 kì kiểm tra](OnThi/Ke-Hoach-On-Thi-4-Ky.md) · [Cấu trúc đề](OnThi/Cau-Truc-De-Kiem-Tra.md) · [Phiếu phân tích lỗi](OnThi/Phieu-Phan-Tich-Loi-Sai.md) | Con + bố mẹ | 2 tuần trước mỗi kì thi; sau mỗi bài kiểm tra |
 | 5 | [Học cùng AI đúng cách](Hoc-Cung-AI.md) | Con + bố mẹ | Tuần 1 (đọc cùng nhau) |
+| 5b 🆕 | [Phương pháp học Do Thái & Châu Âu](../Phuong-Phap-Hoc-Do-Thai-Chau-Au.md) (chavruta, hỏi sâu, mastery, dự án liên môn) | Con + bố mẹ | Tuần 1 – 2 (đọc cùng nhau), áp dụng dần |
 | 6 | [Dự phòng và kế hoạch hè](Ke-Hoach-Du-Phong-Va-He.md) | Bố mẹ | Khi có sự cố; tháng 5/2027 |
 
 ## Cấu trúc thư mục
