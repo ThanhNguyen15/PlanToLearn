@@ -8,6 +8,7 @@
 
 | Thứ tự | Tài liệu | Ai đọc | Khi nào |
 |---|---|---|---|
+| 0 | [Khi con mất động lực học Toán](Khi-Con-Mat-Dong-Luc-Toan.md): 4 tuần giảm tải, lấp nền lớp 6, cách khen và cách phản ứng với điểm thấp | Bố mẹ (mục 7 cho con) | **Đọc trước tiên nếu con đang ngại học / điểm thấp** |
 | 1 | [Lộ trình tổng quan](LoTrinh/Lo-Trinh-Tong-Quan.md): cách tính điểm, mục tiêu, thời gian biểu, cách dùng kế hoạch | Bố mẹ + con | Đọc 1 lần lúc bắt đầu; điền bảng mục tiêu ở tuần 1 |
 | 2 | [Danh mục 34 tuần](LoTrinh/Danh-Muc-Ke-Hoach-Tuan.md) → mở **tuần hiện tại** | Con | **Mỗi Chủ nhật tối** |
 | 3 | [Tổng hợp kiến thức 33 file](KienThuc/README.md) (đáp án ẩn, **70 hình minh họa**) | Con | Theo lịch tuần; ôn lại trước mỗi kì thi |
@@ -21,6 +22,7 @@
 ```
 PlanLop7/
 ├── README.md                          ← trang này
+├── Khi-Con-Mat-Dong-Luc-Toan.md       ← con ngại học, điểm cuối lớp: 4 tuần khởi động lại
 ├── Hoc-Cung-AI.md                     ← quy tắc dùng chatbot AI cho học sinh lớp 7
 ├── Ke-Hoach-Du-Phong-Va-He.md         ← kịch bản sự cố, tính điểm cuối kì cần đạt, kế hoạch hè lên lớp 8
 ├── LoTrinh/
